@@ -1,4 +1,4 @@
-Given an integer `x`, return `true` _if_ `x` _is a_
+Given an integer `x`, return `true` _if_ `x` _is a_ palindrome
 
 _, and_ `false` _otherwise_.
 
@@ -28,7 +28,3 @@ Output: false
 Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 
 ```
-
-**Constraints:**
-
--   `-2<sup>31</sup> <= x <= 2<sup>31</sup> - 1`
