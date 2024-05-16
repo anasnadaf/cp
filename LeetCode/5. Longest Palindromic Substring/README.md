@@ -3,6 +3,7 @@ Given a string `s`, return _the longest_ _palindromic_ _substring_ in `s`.
 **Example 1:**
 
 s = "babad"
+```
 "bab"
 "aba" is also a valid answer.
 ```
