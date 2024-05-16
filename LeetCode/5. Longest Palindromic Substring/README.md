@@ -1,24 +1,17 @@
-Given a string `s`, return _the longest_
-
-_palindromic_
-
-_substring_
-
-in `s`.
+Given a string `s`, return _the longest_ _palindromic_ _substring_ in `s`.
 
 **Example 1:**
 
-```
-<strong>Input:</strong> s = "babad"
-<strong>Output:</strong> "bab"
-<strong>Explanation:</strong> "aba" is also a valid answer.
+s = "babad"
+"bab"
+"aba" is also a valid answer.
 ```
 
 **Example 2:**
 
 ```
-<strong>Input:</strong> s = "cbbd"
-<strong>Output:</strong> "bb"
+s = "cbbd"
+"bb"
 ```
 
 **Constraints:**
